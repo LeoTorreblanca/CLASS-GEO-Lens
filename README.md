@@ -1,3 +1,6 @@
+
+<meta name="google-site-verification" content="x-AedGqySV-uGBvo2bdqM41z0wH7HnK6w7cOmPd8gxw" />
+
 # CLASS-GEO-Lens
 
 Public GEO-Lens implementation for CLASS-based cosmological validation and Hubble tension studies.
